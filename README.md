@@ -6,7 +6,7 @@ A simple phishing maker that converts the website source into a phishing website
 - ``pip install -r requirements.txt``
 
 ### How to use
-1. Go to the website
+1. Go to the login website
 2. Get the form index
 - Go to Console and execute ``document.getElementsByTagName("form");``
 
