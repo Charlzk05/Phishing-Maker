@@ -21,3 +21,4 @@ And see that number ``0`` that is our **form index**, some website may have more
 4. Copy the page source and paste into output.html
 5. Run the program ``main.py`` and insert the **form index**; username; and password ID.
 6. Done!
+- The converted source is saved on Output folder
