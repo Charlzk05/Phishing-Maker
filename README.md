@@ -1,6 +1,10 @@
 ## Phishing Maker
 A simple phishing maker that converts the website source into a phishing website
 
+### Installation
+- ``git clone https://github.com/Charlzk05/Phishing-Maker.git``
+- ``pip install -r requirements.txt``
+
 ### How to use
 1. Go to the website
 2. Get the form index
